@@ -8,13 +8,13 @@
 
 ### 📊 ตารางการให้คะแนน (รวม 20 คะแนน)
 
-| เกณฑ์การให้คะแนน (Criteria) | รายละเอียด (Details) | คะแนน (Points) |
-| :--- | :--- | :---: |
-| **1. Feature Flag Logic & Targeting** | รองรับการสร้าง Targeting rules ที่ซับซ้อน เช่น การสร้าง Group, กำหนด Role และเงื่อนไขแบบ Recursive/Nested | **7** |
-| **2. State Management & Validation** | การจัดการ Nested Form ด้วย `@tanstack/react-form` อย่างมีประสิทธิภาพ และตรวจสอบข้อมูลด้วย `Zod` | **5** |
-| **3. Project Structure** | การแยกส่วน UI และ Logic อย่างชัดเจน (Separation of Concerns) และโครงสร้างที่รองรับ Scalability | **4** |
-| **4. UI/UX & Output Accuracy** | การแสดงผล JSON Preview แบบ Real-time, โครงสร้าง Output ถูกต้อง และแจ้งเตือน Error ชัดเจน | **4** |
-| **รวม (Total)** | | **20** |
+| เกณฑ์การให้คะแนน (Criteria)           | รายละเอียด (Details)                                                                                      | คะแนน (Points) |
+| :------------------------------------ | :-------------------------------------------------------------------------------------------------------- | :------------: |
+| **1. Feature Flag Logic & Targeting** | รองรับการสร้าง Targeting rules ที่ซับซ้อน เช่น การสร้าง Group, กำหนด Role และเงื่อนไขแบบ Recursive/Nested |     **7**      |
+| **2. State Management & Validation**  | การจัดการ Nested Form ด้วย `@tanstack/react-form` อย่างมีประสิทธิภาพ และตรวจสอบข้อมูลด้วย `Zod`           |     **5**      |
+| **3. Project Structure**              | การแยกส่วน UI และ Logic อย่างชัดเจน (Separation of Concerns) และโครงสร้างที่รองรับ Scalability            |     **4**      |
+| **4. UI/UX & Output Accuracy**        | การแสดงผล JSON Preview แบบ Real-time, โครงสร้าง Output ถูกต้อง และแจ้งเตือน Error ชัดเจน                  |     **4**      |
+| **รวม (Total)**                       |                                                                                                           |     **20**     |
 
 ### 1. ตรรกะฟีเจอร์แฟล็กและการกำหนดเป้าหมาย (Feature Flag Logic & Targeting)
 
